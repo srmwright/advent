@@ -1,0 +1,6 @@
+# which triangles are impossible?
+
+with open('input3.txt') as f:
+    lines = f.readlines()
+
+print(lines[0])
